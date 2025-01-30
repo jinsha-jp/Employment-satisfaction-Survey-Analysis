@@ -1,5 +1,6 @@
 # Employment Satisfaction Survey Analysis
-![image](https://github.com/user-attachments/assets/fba87e2f-e811-4faf-9b8e-bfe2a0c4b7b7)
+
+![image](https://github.com/user-attachments/assets/b24b2c8a-effd-4cd4-a00e-582598bdd681)
 
 ## Description
 This analysis seeks to understand the key factors that contribute to employee job satisfaction within the organization. The analysis will take into account various variables such as compensation, work-life balance, work environment, workload,etc.
