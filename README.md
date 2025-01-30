@@ -11,7 +11,7 @@ This analysis seeks to understand the key factors that contribute to employee jo
 - Develop actionable insights and recommendations to improve job satisfaction and organizational culture.
 
 ## Data collection and Modelling
-	This dataset contains survey results from 3025 employees who provided feedback on various aspects of their job satisfaction within the organization. The Employee Satisfaction Survey Dataset has been successfully transformed and loaded into Microsoft Power BI Desktop for further data modeling, visualization, and analysis.
+This dataset contains survey results from 3025 employees who provided feedback on various aspects of their job satisfaction within the organization. The Employee Satisfaction Survey Dataset has been successfully transformed and loaded into Microsoft Power BI Desktop for further data modeling, visualization, and analysis.
 
  ### Data Import and Cleansing in Power Query:
 - The raw survey data was imported into Power BI, and Power Query was used to clean and format the dataset.
